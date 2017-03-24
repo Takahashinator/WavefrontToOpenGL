@@ -1,0 +1,12 @@
+D:\OneDrive\School\ENEL 602\OpenGlprogram\Obj2OpenGlFileHeader\Obj2OpenGlFileHeader\bin\Debug\Obj2OpenGlFileHeader.exe.config
+D:\OneDrive\School\ENEL 602\OpenGlprogram\Obj2OpenGlFileHeader\Obj2OpenGlFileHeader\bin\Debug\Obj2OpenGlFileHeader.exe
+D:\OneDrive\School\ENEL 602\OpenGlprogram\Obj2OpenGlFileHeader\Obj2OpenGlFileHeader\bin\Debug\Obj2OpenGlFileHeader.pdb
+D:\OneDrive\School\ENEL 602\OpenGlprogram\Obj2OpenGlFileHeader\Obj2OpenGlFileHeader\obj\Debug\Obj2OpenGlFileHeader.csprojResolveAssemblyReference.cache
+D:\OneDrive\School\ENEL 602\OpenGlprogram\Obj2OpenGlFileHeader\Obj2OpenGlFileHeader\obj\Debug\Obj2OpenGlFileHeader.exe
+D:\OneDrive\School\ENEL 602\OpenGlprogram\Obj2OpenGlFileHeader\Obj2OpenGlFileHeader\obj\Debug\Obj2OpenGlFileHeader.pdb
+C:\Users\tttakaha\Downloads\Obj2OpenGlFileC#\Obj2OpenGlFileHeader\bin\Debug\Obj2OpenGlFileHeader.exe.config
+C:\Users\tttakaha\Downloads\Obj2OpenGlFileC#\Obj2OpenGlFileHeader\obj\Debug\Obj2OpenGlFileHeader.exe
+C:\Users\tttakaha\Downloads\Obj2OpenGlFileC#\Obj2OpenGlFileHeader\obj\Debug\Obj2OpenGlFileHeader.pdb
+C:\Users\tttakaha\Downloads\Obj2OpenGlFileC#\Obj2OpenGlFileHeader\bin\Debug\Obj2OpenGlFileHeader.exe
+C:\Users\tttakaha\Downloads\Obj2OpenGlFileC#\Obj2OpenGlFileHeader\bin\Debug\Obj2OpenGlFileHeader.pdb
+C:\Users\tttakaha\Downloads\Obj2OpenGlFileC#\Obj2OpenGlFileHeader\obj\Debug\Obj2OpenGlFileHeader.csprojResolveAssemblyReference.cache
