@@ -134,6 +134,7 @@ namespace Obj2OpenGlFileHeader
                     foreach (var item in TsnList)
                     {
                         file.Write(positions[item.Postion].ToString());
+                        counter++;
                         if (counter >= 3)
                         {
                             file.WriteLine();
@@ -153,6 +154,7 @@ namespace Obj2OpenGlFileHeader
                     foreach (var item in TsnList)
                     {
                         file.Write(normals[item.Normal].ToString());
+                        counter++;
                         if (counter >= 3)
                         {
                             file.WriteLine();
